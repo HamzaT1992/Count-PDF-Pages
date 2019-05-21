@@ -1,0 +1,9 @@
+c:\users\administrateur\documents\visual studio 2010\Projects\Coun PDF Pages\Coun PDF Pages\bin\Debug\Coun PDF Pages.exe
+c:\users\administrateur\documents\visual studio 2010\Projects\Coun PDF Pages\Coun PDF Pages\bin\Debug\Coun PDF Pages.pdb
+c:\users\administrateur\documents\visual studio 2010\Projects\Coun PDF Pages\Coun PDF Pages\bin\Debug\itextsharp.dll
+c:\users\administrateur\documents\visual studio 2010\Projects\Coun PDF Pages\Coun PDF Pages\obj\x86\Debug\Coun PDF Pages.csprojResolveAssemblyReference.cache
+c:\users\administrateur\documents\visual studio 2010\Projects\Coun PDF Pages\Coun PDF Pages\obj\x86\Debug\Coun_PDF_Pages.Form1.resources
+c:\users\administrateur\documents\visual studio 2010\Projects\Coun PDF Pages\Coun PDF Pages\obj\x86\Debug\Coun_PDF_Pages.Properties.Resources.resources
+c:\users\administrateur\documents\visual studio 2010\Projects\Coun PDF Pages\Coun PDF Pages\obj\x86\Debug\Coun PDF Pages.csproj.GenerateResource.Cache
+c:\users\administrateur\documents\visual studio 2010\Projects\Coun PDF Pages\Coun PDF Pages\obj\x86\Debug\Coun PDF Pages.exe
+c:\users\administrateur\documents\visual studio 2010\Projects\Coun PDF Pages\Coun PDF Pages\obj\x86\Debug\Coun PDF Pages.pdb
